@@ -1,0 +1,9 @@
+Friends(Anna, Edward)
+Friends(Edward, Anna)
+ 
+
+Smokes(Anna)
+Smokes(Edward)
+
+Cancer(Anna)
+Cancer(Edward)
